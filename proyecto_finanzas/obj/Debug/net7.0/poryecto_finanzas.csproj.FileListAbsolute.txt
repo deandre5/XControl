@@ -1,0 +1,6 @@
+C:\Users\pipeg\source\repos\poryecto_finanzas\poryecto_finanzas\obj\Debug\net7.0\poryecto_finanzas.csproj.AssemblyReference.cache
+C:\Users\pipeg\source\repos\poryecto_finanzas\poryecto_finanzas\obj\Debug\net7.0\poryecto_finanzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pipeg\source\repos\poryecto_finanzas\poryecto_finanzas\obj\Debug\net7.0\poryecto_finanzas.AssemblyInfoInputs.cache
+C:\Users\pipeg\source\repos\poryecto_finanzas\poryecto_finanzas\obj\Debug\net7.0\poryecto_finanzas.AssemblyInfo.cs
+C:\Users\pipeg\source\repos\poryecto_finanzas\poryecto_finanzas\obj\Debug\net7.0\poryecto_finanzas.csproj.CoreCompileInputs.cache
+C:\Users\pipeg\source\repos\poryecto_finanzas\poryecto_finanzas\obj\Debug\net7.0\poryecto_finanzas.MvcApplicationPartsAssemblyInfo.cache
